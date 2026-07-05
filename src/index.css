@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 自定義全局樣式 */
+body {
+  @apply bg-[#FBFCFC];
+}
